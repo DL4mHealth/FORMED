@@ -1,0 +1,7 @@
+absl-py
+jupyter
+rich
+scikit-learn
+seaborn
+torch
+tqdm
